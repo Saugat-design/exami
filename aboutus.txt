@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>About Us</title>
+	<link rel="stylesheet" type="text/css" href="style3.css">
+	<link href="https://fonts.googleapis.com/css2?family=Flamenco&display=swap" rel="stylesheet">
+	
+</head>
+
+<body>
+	<div class="about-section">
+		<div class="inner-container">
+			<h1>About Us</h1>
+			<p class="text">
+				Our restaurant is a French Restaurant located in heart of Denmark,Copenhagen City which provides great pancakes as well as Service.You can enjoy your meal with your family,friends and loved ones on terrace enjoying the sunshine.We have a lot of variety in Pacakes as you can also see in the menu as well as different starter meal and Sweet pancakes as well.Suitable Place for every season as you can enjoy the sunshine while having the meal as we have the terrace and also in winter we have the underground floor which makes you feel warm and you can have celebrations with friends and family as we also serve drinks and for children we have juice etc and also you can takeaway the food.
+			</p>
+		</div>
+	</div>
+</body>
+</html>
